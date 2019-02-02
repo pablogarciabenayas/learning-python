@@ -88,3 +88,11 @@ print(sample_dictionary)
 
 for k,v in sample_dictionary.items():
     print(k, '-', v)
+
+
+#import classes
+from sample_class import Sample
+
+sample = Sample(1,2)
+sample.print_attr_1()
+sample.print_attr_2()
