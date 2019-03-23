@@ -19,7 +19,7 @@ integer_number = 1
 print(integer_number)
 
 # float
-float_number = 0.1
+float_number = 0.2
 print(float_number)
 
 # to string
